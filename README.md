@@ -22,38 +22,29 @@ Desarrollé una plataforma 100% Cloud para centralizar la oferta académica de l
 ### 🛠️ Mi Stack Tecnológico
 
 #### 💻 Lenguajes de Programación y Tecnologías Web
-<p align="left">
-    * **JavaScript**.
-    * **Kotlin**.
-    * **HTML5**.
-    * **CSS3**.
-    * **Python**.
-    * **Java**.
-</p>
+* **JavaScript**
+* **Kotlin**
+* **HTML5** / **CSS3**
+* **Python**
+* **Java**
 
 #### ⚙️ Frameworks, Librerías y Entornos
-<p align="left">
-    * **React**.
-    * **Node.js**.
-    * **Spring Boot**.
-    * **Android Studio**.
-</p>
+* **React**
+* **Node.js**
+* **Spring Boot**
+* **Android Studio**
 
 #### 🗄️ Bases de Datos y Cloud
-<p align="left">
-    * **PostgreSQL**.
-    * **MySQL**.
-    * **MongoDB**.
-    * **Oracle**.
-    * **Supabase**.
-    * **Vercel**.
-</p>
+* **PostgreSQL**
+* **MySQL**
+* **MongoDB**
+* **Oracle**
+* **Supabase**
+* **Vercel**
 
 #### 🎯 Aprendiendo Actualmente
-<p align="left">
-   * **TypeScript**.
-    * **React Native**.
-    * **GameMaker**.
-</p>
+* **TypeScript**
+* **React Native**
+* **GameMaker (GML)**
 
 ---
