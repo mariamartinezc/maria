@@ -23,45 +23,37 @@ Desarrollé una plataforma 100% Cloud para centralizar la oferta académica de l
 
 #### 💻 Lenguajes de Programación y Tecnologías Web
 <p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Kotlin" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Java" />
+    * **JavaScript**.
+    * **Kotlin**.
+    * **HTML5**.
+    * **CSS3**.
+    * **Python**.
+    * **Java**.
 </p>
 
 #### ⚙️ Frameworks, Librerías y Entornos
 <p align="left">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Spring Boot" />
-  <img src="https://shields.io" alt="Android Studio" />
+    * **React**.
+    * **Node.js**.
+    * **Spring Boot**.
+    * **Android Studio**.
 </p>
 
 #### 🗄️ Bases de Datos y Cloud
 <p align="left">
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="Oracle" />
-  <img src="https://shields.io" alt="Supabase" />
-  <img src="https://shields.io" alt="Vercel" />
+    * **PostgreSQL**.
+    * **MySQL**.
+    * **MongoDB**.
+    * **Oracle**.
+    * **Supabase**.
+    * **Vercel**.
 </p>
 
 #### 🎯 Aprendiendo Actualmente
 <p align="left">
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="React Native" />
-  <img src="https://shields.io" alt="GameMaker" />
-</p>
-
----
-
-### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" width="48%" />
+   * **TypeScript**.
+    * **React Native**.
+    * **GameMaker**.
 </p>
 
 ---
